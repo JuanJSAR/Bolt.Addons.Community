@@ -1,10 +1,10 @@
 {
-    "name": "Bolt.Addons.Community.Events",
-    "displayName": "Bolt Addons Events",
+    "name": "bolt.addons.community.events",
+    "displayName": "Events",
     "version": "2.4.1",
     "unity": "2018.4",
     "description": "A community-driven project for extending Unity Bolt with custom nodes, types, and helpers.",
-    "keywords": [ "Bolt", "Addons", "Community", "Events" ],
+    "keywords": [ "bolt", "addons", "community", "events" ],
     "license": "MIT",
     "category": "Addons",
     "dependencies": {}

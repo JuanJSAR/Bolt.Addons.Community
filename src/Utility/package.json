@@ -1,10 +1,10 @@
 {
-    "name": "Bolt.Addons.Community.Utility",
-    "displayName": "Bolt Addons Utility",
+    "name": "bolt.addons.community.utility",
+    "displayName": "Utility",
     "version": "2.4.1",
     "unity": "2018.4",
     "description": "A community-driven project for extending Unity Bolt with custom nodes, types, and helpers.",
-    "keywords": [ "Bolt", "Addons", "Community", "Utility" ],
+    "keywords": [ "bolt", "addons", "community", "utility" ],
     "license": "MIT",
     "category": "Addons",
     "dependencies": {}
