@@ -1,6 +1,6 @@
 {
     "name": "bolt.addons.community",
-    "displayName": "BoltAddonsCommunity",
+    "displayName": "Bolt Addons Community",
     "version": "2.4.1",
     "unity": "2018.4",
     "description": "A community-driven project for extending Unity Bolt with custom nodes, types, and helpers.",
